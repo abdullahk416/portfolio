@@ -17,7 +17,7 @@ const works = [
   },
   {
     imgSrc: '/images/todo.png',
-    title: 'ToTo-Do List',
+    title: 'To-Do List',
     tags: ['Data Handling', 'JavaScript/HTML/CSS', 'Frontend/Backend'],
     projectLink: 'https://abdullahk416.github.io/To-Do-List-App/'
   },
