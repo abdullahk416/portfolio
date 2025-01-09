@@ -2,7 +2,7 @@
 const aboutItems = [
   {
     label: 'Projects done',
-    number: 50
+    number: 20
   },
 ];
 
